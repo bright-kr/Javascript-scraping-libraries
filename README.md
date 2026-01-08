@@ -1,6 +1,6 @@
 # 최고의 JavaScript Webスクレイピング 라이브러리
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
 최고의 JavaScript Webスクレイピング 라이브러리, 주요 기능, 그리고 프로젝트에 가장 적합한 도구를 찾는 데 도움이 되는 유용한 비교 표를 살펴보시기 바랍니다.
 
