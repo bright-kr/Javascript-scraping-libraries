@@ -1,12 +1,12 @@
-# 최고의 JavaScript Webスクレイピング 라이브러리
+# 최고의 JavaScript Web스크레이핑 라이브러리
 
 [![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
-최고의 JavaScript Webスクレイピング 라이브러리, 주요 기능, 그리고 프로젝트에 가장 적합한 도구를 찾는 데 도움이 되는 유용한 비교 표를 살펴보시기 바랍니다.
+최고의 JavaScript Web스크레이핑 라이브러리, 주요 기능, 그리고 프로젝트에 가장 적합한 도구를 찾는 데 도움이 되는 유용한 비교 표를 살펴보시기 바랍니다.
 
-## JavaScript Webスクレイピング 라이브러리란 무엇입니까
+## JavaScript Web스크레이핑 라이브러리란 무엇입니까
 
-JavaScript Webスクレイピング 라이브러리는 [HTTP requests](https://brightdata.co.kr/glossary/http-request)를 전송하고, [parsing HTML](https://brightdata.co.kr/blog/web-data/best-html-parsers)을 수행하며, JavaScript 기반 콘텐츠를 렌더링하여 온라인 페이지에서 데이터를 추출하는 데 도움을 줍니다. 
+JavaScript Web스크레이핑 라이브러리는 [HTTP requests](https://brightdata.co.kr/glossary/http-request)를 전송하고, [parsing HTML](https://brightdata.co.kr/blog/web-data/best-html-parsers)을 수행하며, JavaScript 기반 콘텐츠를 렌더링하여 온라인 페이지에서 데이터를 추출하는 데 도움을 줍니다. 
 
 JavaScript 및 node.js 스크レ이핑에 대해 더 알아보려면 [여기](https://brightdata.co.kr/blog/how-tos/web-scraping-with-node-js)를 확인하실 수 있습니다.
 
@@ -20,7 +20,7 @@ JavaScript 및 node.js 스크レ이핑에 대해 더 알아보려면 [여기](ht
 - **릴리스 일정**: 업데이트 빈도입니다.
 - **장단점**: 이점과 한계입니다.
 
-## Top 6 JavaScript Webスクレイピング 라이브러리
+## Top 6 JavaScript Web스크레이핑 라이브러리
 
 ### 1. [Playwright](https://playwright.dev/)
 
@@ -65,7 +65,7 @@ HTTP 리クエスト를 보내는 데 널리 사용되며, HTML 데이터를 가
 
 브라우저 자동화 및 동적 콘텐츠 스크레イピング을 위한 라이브러리입니다.
 
-- **기능**: 사용자 상호작용 시뮬레이션, アンチボット 대응 기능
+- **기능**: 사용자 상호작용 시뮬레이션, 안티봇 대응 기능
 - **유형**: 브라우저 자동화
 - **GitHub stars**: ~89.3k
 - **주간 다운로드 수**: ~3.1M
@@ -76,10 +76,10 @@ HTTP 리クエスト를 보내는 데 널리 사용되며, HTML 데이터를 가
 
 ### 5. [Crawlee](https://crawlee.dev/)
 
-고급 クローリング 및 スクレイピング을 위한 프레임워크입니다.
+고급 크롤링 및 스크레이핑을 위한 프레임워크입니다.
 
-- **기능**: プロキシ 로테이션, 오류 관리
-- **유형**: スクレイピング 프레임워크
+- **기능**: 프록시 로테이션, 오류 관리
+- **유형**: 스크레이핑 프레임워크
 - **GitHub stars**: ~16.5k
 - **주간 다운로드 수**: ~15k
 - **장점**: 올인원 솔루션, 쉬운 배포
@@ -89,7 +89,7 @@ HTTP 리クエスト를 보내는 데 널리 사용되며, HTML 데이터를 가
 
 ### 6. [node-curl-impersonate](https://github.com/SwapnilSoni1999/node-libcurl-impersonate)
 
-アンチボット 시스템을 우회하기 위한 브라우저 가장 기능을 제공하는 HTTP 클라이언트입니다.
+안티봇 시스템을 우회하기 위한 브라우저 가장 기능을 제공하는 HTTP 클라이언트입니다.
 
 - **기능**: TLS 핑거프린팅, 브라우저 가장
 - **유형**: HTTP 클라이언트
